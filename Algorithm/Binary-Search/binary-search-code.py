@@ -1,0 +1,1 @@
+#Realize code  of Binary Search Algorithm
